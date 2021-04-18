@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome to Thapar University !!! </h1>
+<h2> Deploying on Tomcat by arpit ahuja </h2>
+<h3> One last test  and thanks to Gurpal Sir</h3>
